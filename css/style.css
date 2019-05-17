@@ -1,0 +1,36 @@
+table{
+	width:10%; /* %, px, vw, vh, em */
+}
+
+td {
+
+       border: 2px solid #000;
+       width:33.333%;
+}
+p{
+	background-color: white;
+}
+div{
+	border: 2px solid #000;
+    margin:10px 10px 10px 0px;
+    padding:10px;
+}
+.center-block {
+	width: 50%;
+	margin: 30px 10px 10px auto;
+}
+.gimn {
+	width: 354px;
+	margin: 10px 10px 1px 500px;
+}
+.right {
+	width:354px;
+	margin:    0px 10px 10px 500px;
+}
+.gimn p.right {
+ padding: 10px;
+}
+.right  {
+	width:354;
+}
+
